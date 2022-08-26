@@ -1,4 +1,11 @@
-# Bad Trads
+---
+title: Bad Trads.
+description: Trads...are bad.
+date: 2022-08-26
+tags:
+layout: layouts/post.njk
+---
+Bad Trads
 
 Aug-25th-2022
 
