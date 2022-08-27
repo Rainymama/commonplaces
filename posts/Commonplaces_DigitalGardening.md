@@ -1,7 +1,7 @@
 ---
 title: Digital Gardening
 description:
-date: Aug-27th-2022
+date: 2022-08-27
 tags:
 layout: layouts/post.njk
 ---
