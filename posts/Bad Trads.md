@@ -7,7 +7,7 @@ layout: layouts/post.njk
 ---
 Bad Trads
 
-Paul Baumann at [Commonweal](https://www.commonweal.com), on the New York Times' latest ogling of the young tradsters.
+Paul Baumann at [Commonweal](https://www.commonwealmagazine.org), on the New York Times' latest ogling of the young tradsters.
 
 > 	If Catholicism has long embraced theatricality, it has also tamed and routinized it. And for good reason: ritual requires constancy, not flighty trendsetting.
 
