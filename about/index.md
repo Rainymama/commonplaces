@@ -12,3 +12,5 @@ Commonplaces are neither common nor places.
 I'm Aimee Chor.
 Find me at
 https://twitter.com/aimeechor
+
+![](lofoton.jpeg)
